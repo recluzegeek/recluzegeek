@@ -5,7 +5,7 @@
 ### Skills:
 - Java, JavaScript, PHP
 - HTML, CSS, React, Tailwind
-- Node.js, Express, MongoDB, XAMPP, MySQL
+- Node.js, Express, MongoDB, XAMPP, MySQL, Strapi CMS
 - **Tools**: IntelliJ Products, VSCode
 - **Others**: Linux, RMD
 
