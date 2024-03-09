@@ -1,16 +1,16 @@
 # Hi, I'm recluze geek! 👋
 
-🚀 Full Stack Developer | MERN Stack Enthusiast
+🚀 Full Stack Developer | Laravel & MERN Enthusiast  
 
 ### Skills:
-- Java, JavaScript, PHP
-- HTML, CSS, React, Tailwind
-- Node.js, Express, MongoDB, XAMPP, MySQL, Strapi CMS
-- **Tools**: IntelliJ Products, VSCode
+- Java, JavaScript, PHP, Python
+- HTML, CSS3, React, Tailwind
+- Node.js, Express, MongoDB, Laravel, MariaDB, MySQL, Strapi CMS
+- **Tools**: IntelliJ Products, VSCode, neovim :)
 - **Others**: Linux, RMD
 
 ### Learning:
-- Expanding skills in MERN stack
+- Expanding skills in Laravel ~MERN Stack~
 
 
 ![](https://github.com/recluzegeek/recluzegeeek/blob/master/profile-summary-card-output/algolia/0-profile-details.svg)
