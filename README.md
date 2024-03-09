@@ -6,7 +6,7 @@
 - Java, JavaScript, PHP, Python
 - HTML, CSS3, React, Tailwind
 - Node.js, Express, MongoDB, Laravel, MariaDB, MySQL, Strapi CMS
-- **Tools**: IntelliJ Products, VSCode, neovim :)
+- **Tools**: JetBrain Products, VSCode, neovim &mdash; user by choice :)
 - **Others**: Linux, RMD
 
 ### Learning:
