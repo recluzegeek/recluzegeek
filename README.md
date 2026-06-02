@@ -1,24 +1,16 @@
 # Hi, I'm recluze geek! 👋
 
-**Generalist Software Engineer :D** | Focused on **Cloud Infrastructure**, **Security**, and **Computer Vision**
+I build with Python, TypeScript and Next.js, spend a lot of time around computer vision, optimization and the cloud, and run a deliberately minimal Linux setup.
 
 ### Skills:
-- **Languages**: Java, JavaScript, PHP, Python
-- **Frameworks**: Laravel, Redis, MariaDB, FastAPI, VueJS
-- **Dev Tools**: JetBrains IDEs, VSCode, Neovim (preferred), Vagrant, Docker
-- **Others**: Linux (yes, I'm that kind of geek), MinIO, AWS Serverless
+- Confident Python & TypeScript development
+- Full-stack apps with Next.js + Supabase
+- End-to-end testing with Playwright-Python
+- Occasional Java, Bash & SQL
+- Linux (Arch · i3 · dwm) & KVM/QEMU virtualization
 
-### Learning:
-- [MLOps](https://github.com/DataTalksClub/mlops-zoomcamp/) and LLMOps with [DataTalks.Club](https://datatalks.club)
-- Deepening skills in System Design, Cloud Infrastructure, and Image Processing
-
-### Projects
-I'm building a full ecosystem to detect deepfake videos, including:
-
-- [Web Platform (Frontend)](https://github.com/recluzegeek/deepscan-web)
-- [REST API](https://github.com/recluzegeek/deepscan-api)
-- [Browser Extension](https://github.com/recluzegeek/deepscan-extension)
-- Deepfake Video Classifier (ML Model Training)
+### What I'm working on right now:
+I'm busy migrating my blog from astro over to zola with [own theme](https://github.com/recluzegeek/zola-caret) inspired from [apollo](https://github.com/not-matthias/apollo) & [astro's pure theme.](https://astro-pure.js.org/)
 
 ![](https://github.com/recluzegeek/recluzegeeek/blob/master/profile-summary-card-output/algolia/0-profile-details.svg)
 ![](https://github.com/recluzegeek/recluzegeeek/blob/master/profile-summary-card-output/algolia/1-repos-per-language.svg)![](https://github.com/recluzegeek/recluzegeeek/blob/master/profile-summary-card-output/algolia/2-most-commit-language.svg)
